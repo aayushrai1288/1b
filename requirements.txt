@@ -1,0 +1,15 @@
+numpy
+pydantic
+pdfplumber
+PyPDF2
+scikit-learn
+pytesseract
+pdf2image
+sentence-transformers
+torch
+torchvision
+torchaudio
+fpdf
+pytesseract
+pytesseract
+pdf2image

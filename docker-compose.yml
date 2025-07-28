@@ -1,0 +1,12 @@
+version: "3.8"
+
+services:
+  pdf_pipeline:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: pdf-pipeline-container
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: ["python3", "pipeline.py"]

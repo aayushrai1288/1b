@@ -1,0 +1,75 @@
+{
+    "metadata": {
+        "input_documents": [
+            "South of France - Cities.pdf",
+            "South of France - Cuisine.pdf",
+            "South of France - History.pdf",
+            "South of France - Restaurants and Hotels.pdf",
+            "South of France - Things to Do.pdf",
+            "South of France - Tips and Tricks.pdf",
+            "South of France - Traditions and Culture.pdf"
+        ],
+        "persona": "Travel Planner",
+        "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+        "processing_timestamp": "2025-07-28T16:45:10.042964Z"
+    },
+    "extracted_sections": [
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "section_title": "Page 13 Content",
+            "importance_rank": 1,
+            "page_number": 13
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "section_title": "Page 11 Content",
+            "importance_rank": 2,
+            "page_number": 11
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "section_title": "Page 4 Content",
+            "importance_rank": 3,
+            "page_number": 4
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "section_title": "Page 1 Content",
+            "importance_rank": 4,
+            "page_number": 1
+        },
+        {
+            "document": "South of France - History.pdf",
+            "section_title": "Page 3 Content",
+            "importance_rank": 5,
+            "page_number": 3
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "• Hôtel Métropole Monte-Carlo (Monaco): A luxurious hotel offering opulent rooms, a world-class spa, and several Michelin-starred restaurants. The refined elegance and exceptional service make it a top choice for luxury travelers.",
+            "page_number": 13
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "Upscale Hotels • Hotel Negresco (Nice): A historic five-star hotel located on the Promenade des Anglais, offering luxurious rooms and exceptional service. • La Bastide de Gordes (Gordes): A luxurious hotel located in a historic building, offering elegant rooms, beautiful gardens, and stunning views of the Luberon Valley. The refined decor and serene atmosphere make it a perfect retreat.",
+            "page_number": 11
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "The artistic presentation and unique flavor combinations make it a culinary adventure. The historic setting and exquisite dishes make it a must-visit for food enthusiasts. The creative menu and elegant ambiance make it a standout dining destination.",
+            "page_number": 4
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "Comprehensive Guide to Restaurants and Hotels in the South of France Introduction The South of France, known for its stunning landscapes, rich cultural heritage, and exquisite cuisine, is a dream destination for travelers. From the glamorous beaches of the French Riviera to the charming villages of Provence, this region offers a diverse array of experiences. Whether you're looking for budget-friendly options, family-friendly spots, upscale dining, or luxurious experiences, this guide will help you find the perfect restaurants and hotels for your trip.",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - History.pdf",
+            "refined_text": "Nice: The Jewel of the French Riviera Nice, located on the French Riviera, has been a popular destination for centuries. Nice later became a Roman colony and has since evolved into a glamorous resort town. It's perfect for a leisurely stroll along the coast.",
+            "page_number": 3
+        }
+    ]
+}
